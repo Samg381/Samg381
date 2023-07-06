@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samg381&exclude_repo=Firefighter-Loadout-Configurator,Double-Pendulum-Solver,Full-State-Feedback-Controller,SimRip,Newegg-Bot"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samg381&exclude_repo=Firefighter-Loadout-Configurator,Double-Pendulum-Solver,Full-State-Feedback-Controller,SimRip,Newegg-Bot"/> <!-- Hide quick projects -->
